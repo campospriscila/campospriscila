@@ -1,10 +1,6 @@
 ## Hi there! I am Priscila Campos 🙋🏻‍♀️ 
 
 - 👩🏻‍💻 I am a Flutter developer and data analysis enthusiast
-- 🤓 I talk about pop culture (games, series, movies, books etc) on Youtube and Twitch
-- 💻 I currently work with web development, but looking to change for data analysis and mobile
-- 🎮 I develop games as a hobby
-- 🏆 I used to be a Trap Shooting athlete (3 times Brazilian Champ and Vice-Champion 2022 South American Games)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg"/>
