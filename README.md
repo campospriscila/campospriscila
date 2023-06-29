@@ -1,6 +1,6 @@
 ## Hi there! I am Priscila Campos 🙋🏻‍♀️ 
 
-- 👩🏻‍💻 I am a Flutter developer and data analysis enthusiast
+- 👩🏻‍💻 I am a Flutter Developer 📱💻
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg"/>
